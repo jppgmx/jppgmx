@@ -1,26 +1,5 @@
-- 👋 Hi, I’m @JPPlaysGamer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- And.... I leave a message below? Well, in addition above there are several things you don't know. Worth reading, isn't it?
+You know, I'm looking for new things. Even if it's not "grand," I like to look for something new. Lately, I've learned a few things like creating an OS (what I haven't learned is the stack and sectors lol). If anyone has an interest in helping me, I greatly appreciate it.
 
-"Grettings. My name is JPPlaysGamer, who am i talking to?
+I also have a focus on the world of games, such is in the creation of mods. Which is good because it expands the functionality, the features that it could have but doesn't have officially.
 
-You are now looking at my repository. Well, I think you’re looking for something, right?
-If not, why are you here? I'm new here, I don't know anyone and I'm not from your country.
-
-I almost feel alone, but I don't care. For me it's just the beginning. And you didn't answer my question, what do you do on GitHub? Just sign up?
-
-Or your dream was to participate in a project. You can look like a good programmer ... 
-You know, I'm not used to it, programming is something that came to me. I was born for this, and NO barrier ... 
-and how are you? I'm the same, you ... think of something, you can think that all that I say is just to enter my repository,
-nothing like that. I just talk about what we feel when we want to do something else. I do not control anyone it is something that you yourself or
-whoever looks at it must know how to make their own decision."
-
-        -JPPlaysGamer
-
-<!---
-JPPlaysGamer/JPPlaysGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Anyway, I learn fast, but I consider myself new to this world. Hopefully I can move on.
