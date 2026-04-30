@@ -1,5 +1,7 @@
-You know, I'm looking for new things. Even if it's not "grand," I like to look for something new. Lately, I've learned a few things like creating an OS (what I haven't learned is the stack and sectors lol). If anyone has an interest in helping me, I greatly appreciate it.
+*(Versão português)*
 
-I also have a focus on the world of games, such is in the creation of mods. Which is good because it expands the functionality, the features that it could have but doesn't have officially.
+Olá, sou João Paulo (ou John Paul se traduzir 👀), atualmente um desenvolvedor em formação, estudando do Curso de Análise e Desenvolvimento de Sistemas do Instituto Federal do Sertão Paraibano (IFSPB, mas ainda está como IFPB). Sou curioso, procurando coisas novas, aprendendo com os erros e gosto de abraçar as áreas da informática, tais como redes, infraestrutura, desenvolvimento de software (bibliotecas e jogos minha preferência), computação em nuvem e muito mais.
 
-Anyway, I learn fast, but I consider myself new to this world. Hopefully I can move on.
+*(English version)*
+
+Hi, I'm João Paulo (or John Paul if you translate it 👀), currently a developer in training, studying Systems Analysis and Development at the Federal Institute of Sertão Paraibano (IFSPB, but it's still called IFPB). I'm curious, always looking for new things, learning from mistakes, and I enjoy exploring areas of computer science such as networks, infrastructure, software development (libraries and games are my preference), cloud computing, and much more.
